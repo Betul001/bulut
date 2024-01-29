@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devopsodev-kub
-        image: betul001/bulut :v1
+        image: betul001/bulut:v1
         ports:
         - containerPort: 8080
